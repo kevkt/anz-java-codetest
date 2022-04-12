@@ -22,3 +22,6 @@ The code includes some intial tests of the API endpoints only.
 ```
 gradle test
 ``` 
+
+### Postman collection
+A Postman collection has been provided to call the two services implemented.
